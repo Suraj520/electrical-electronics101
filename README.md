@@ -92,6 +92,123 @@ This repository serves as a comprehensive guide covering various topics in elect
 | Radar Signal Processing                      | Pulse Compression, Target Detection, Tracking Algorithms     |
 | Sonar Signal Processing                      | Beamforming, Target Localization, Signal Processing in Underwater Environments |
 
+## Power Systems and Transformers
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Transformers                                  | Types (Step-Up, Step-Down), Construction, Operation, Efficiency |
+| Transformer Testing and Maintenance           | Insulation Testing, Winding Resistance Measurement, Oil Testing |
+| Distribution Transformers                     | Single-Phase, Three-Phase, Pole-Mounted, Pad-Mounted         |
+| Power Transformers                            | Autotransformers, Instrument Transformers, Power Ratings     |
+| Transformer Protection and Control            | Buchholz Relay, Differential Protection, Tap Changers        |
+| Transformer Design and Manufacturing          | Core Design, Winding Design, Cooling Systems, Manufacturing Processes |
+| Tesla Coils                                   | Resonant Transformers, Wireless Power Transmission, Applications |
+| High-Frequency Transformers                   | RF Transformers, Switching Power Supplies, High-Voltage Applications |
+| Transformerless Power Supplies                | Capacitive Power Supplies, Inductive Power Supplies, Advantages and Disadvantages |
+| Ferroresonance Phenomenon                    | Causes, Effects, Prevention Strategies                        |
+| Smart Transformers                            | IoT Integration, Condition Monitoring, Grid Stability Enhancement |
+| Power Quality Improvement Devices             | Voltage Stabilizers, Harmonic Filters, Surge Protectors      |
+| Insulation Coordination                       | Insulation Levels, Coordination with Surge Arresters, Impulse Testing |
+| High Voltage Testing and Measurement          | Partial Discharge Testing, Power Frequency Testing, High Voltage Impulse Testing |
+
+## Renewable Energy Systems
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Solar Power Systems                           | PV Cells, Solar Panels, Inverters, Maximum Power Point Tracking (MPPT) |
+| Wind Power Systems                            | Turbine Types, Wind Farms, Grid Integration, Wind Energy Conversion Systems |
+| Hydroelectric Power Systems                   | Run-of-River, Reservoir, Pumped Storage, Hydroelectric Generator Design |
+| Biomass Power Systems                         | Biogas, Biofuels, Anaerobic Digestion, Gasification Processes |
+| Geothermal Power Systems                      | Binary Cycle, Flash Steam, Dry Steam, Geothermal Heat Pumps  |
+| Ocean Energy Systems                         | Tidal Power, Wave Power, Ocean Thermal Energy Conversion (OTEC) |
+| Hybrid Renewable Energy Systems               | Solar-Wind Hybrid Systems, Solar-Hydro Hybrid Systems, Integration Strategies |
+| Renewable Energy Grid Integration             | Power Electronics Converters, Energy Storage Systems, Grid Codes |
+| Microgrid Design and Operation                | Islanded Operation, Grid-Connected Operation, Control Strategies |
+| Renewable Energy Policy and Economics         | Feed-in Tariffs, Renewable Portfolio Standards, Net Metering |
+| Energy Storage Technologies                   | Batteries, Flywheels, Supercapacitors, Thermal Energy Storage |
+| Grid Balancing Strategies                     | Demand Response, Frequency Regulation, Energy Trading Markets |
+| Renewable Energy Project Management           | Feasibility Studies, Resource Assessment, Project Financing  |
+
+## Electric Machines and Drives
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Electric Motors                               | DC Motors, Induction Motors, Synchronous Motors, Motor Characteristics |
+| Electric Generators                           | Types (AC, DC), Construction, Operation, Efficiency          |
+| Motor Control Techniques                      | Variable Frequency Drives (VFDs), Soft Starters, Motor Protection |
+| Electric Vehicle Propulsion Systems           | EV Motors, Battery Management Systems, Regenerative Braking  |
+| Advanced Motor Control Strategies             | Field-Oriented Control (FOC), Direct Torque Control (DTC), Sensorless Control |
+| Power Electronics in Motor Drives             | Inverters, Converters, PWM Techniques, Harmonic Reduction   |
+| Electric Machine Design                       | Magnetic Circuits, Winding Design, Thermal Analysis           |
+| Linear Motors                                 | Linear Induction Motors, Linear Synchronous Motors, Applications |
+| High-Speed Electric Machines                  | Permanent Magnet Synchronous Machines, Applications         |
+| Energy-Efficient Motor Technologies           | Permanent Magnet Motors, EC Motors, Energy Optimization     |
+| Motor Drive Integration in Industrial Systems | Conveyor Systems, Pumps, Fans, HVAC Systems, Control Strategies |
+| Electromagnetic Compatibility (EMC) in Drives | EMC Standards, Filtering Techniques, EMC Testing            |
+| Fault Diagnosis in Electric Machines          | Vibration Analysis, Current Signature Analysis, Motor Health Monitoring |
+| Electric Propulsion Systems for Aircraft      | Distributed Propulsion Systems, Electric Aircraft Design   |
+| Electric Propulsion Systems for Marine Vessels| Podded Propulsion Systems, Hybrid Propulsion Systems, Applications |
+| Electric Propulsion Systems for Rail Vehicles | Traction Motors, Regenerative Braking, Train Control Systems |
+| Electric Propulsion Systems for Spacecraft    | Ion Thrusters, Hall Thrusters, Reaction Wheel Systems      |
+
+## Advanced Power Electronics
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Multilevel Converters                         | Modular Multilevel Converters (MMC), Capacitor-Clamped H-Bridge (CHB) Converters, Applications |
+| Power Factor Correction Techniques             | Active Power Factor Correction (PFC), Passive PFC, Hybrid PFC |
+| Soft Switching Techniques                     | ZVS/ZCS Techniques, Resonant Converters, Quasi-Resonant Converters |
+| Wireless Power Transfer Systems               | Inductive Coupling, Resonant Inductive Coupling, Capacitive Coupling |
+| Power Electronic Devices                      | IGBTs, MOSFETs, Thyristors, SiC Devices, GaN Devices        |
+| Grid-Tied Inverters                          | Single-Phase, Three-Phase, MPPT Algorithms, Anti-Islanding Protection |
+| Uninterruptible Power Supply (UPS) Systems    | Offline UPS, Line-Interactive UPS, Online UPS               |
+| Active Filters                                | Shunt Active Filters, Series Active Filters, Hybrid Active Filters |
+| Energy Harvesting Systems                     | Piezoelectric Harvesting, RF Energy Harvesting, Thermal Energy Harvesting |
+| Power Electronics Applications                | Renewable Energy Systems, Electric Vehicles, Grid Integration |
+| Energy Management Systems                    | Battery Management Systems (BMS), Energy Storage Management, Smart Grid Integration |
+| Power Semiconductor Packaging                 | Thermal Management, Module Design, Reliability Considerations |
+| Digital Control of Power Converters           | DSP-Based Control, FPGA-Based Control, Digital Control Techniques |
+| Emerging Power Electronics Technologies      | Wide Bandgap Devices, Gallium Nitride (GaN), Silicon Carbide (SiC) |
+
+## Power System Protection and Control
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Overcurrent Protection Systems                | Electromechanical Relays, Solid-State Relays, Protection Coordination |
+| Distance Protection                           | Impedance Relay, Reactance Relay, Mho Relay                   |
+| Differential Protection                      | Current Differential Relay, Percentage Differential Relay, Transformer Differential Protection |
+| Generator Protection Systems                  | Loss of Excitation Protection, Rotor Earth Fault Protection, Loss of Mains Protection |
+| Busbar Protection Systems                     | Differential Busbar Protection, Overcurrent Busbar Protection |
+| Circuit Breakers                              | Types (Oil Circuit Breakers, Air Circuit Breakers, SF6 Circuit Breakers), Operation |
+| Lightning Protection Systems                  | Surge Arresters, Lightning Conductors, Grounding Systems     |
+| Voltage Control and Protection                | Under Voltage Relay, Over Voltage Relay, Voltage Regulation |
+| Frequency Control and Protection              | Under Frequency Relay, Over Frequency Relay, Load Shedding  |
+| Relay Coordination Techniques                 | Time Grading, Current Grading, Directional Grading           |
+| SCADA Systems                                 | Remote Monitoring, Control Systems Integration               |
+| Protection Relay Testing and Maintenance      | Primary Injection Testing, Secondary Injection Testing, Relay Calibration |
+| Cybersecurity in Power Systems                | Secure Communication Protocols, Intrusion Detection Systems, Network Segmentation |
+| Grid Stability Enhancement Techniques         | Power System Stabilizers (PSS), FACTS Devices, Energy Storage Systems |
+| Power System Resilience                       | Black Start Strategies, Microgrid Integration, Resilience Planning |
+
+## Advanced Power Electronics
+
+| Topic                                          | Subtopics                                                   |
+|------------------------------------------------|-------------------------------------------------------------|
+| Multilevel Converters                         | Modular Multilevel Converters (MMC), Capacitor-Clamped H-Bridge (CHB) Converters, Applications |
+| Power Factor Correction Techniques             | Active Power Factor Correction (PFC), Passive PFC, Hybrid PFC |
+| Soft Switching Techniques                     | ZVS/ZCS Techniques, Resonant Converters, Quasi-Resonant Converters |
+| Wireless Power Transfer Systems               | Inductive Coupling, Resonant Inductive Coupling, Capacitive Coupling |
+| Power Electronic Devices                      | IGBTs, MOSFETs, Thyristors, SiC Devices, GaN Devices        |
+| Grid-Tied Inverters                          | Single-Phase, Three-Phase, MPPT Algorithms, Anti-Islanding Protection |
+| Uninterruptible Power Supply (UPS) Systems    | Offline UPS, Line-Interactive UPS, Online UPS               |
+| Active Filters                                | Shunt Active Filters, Series Active Filters, Hybrid Active Filters |
+| Energy Harvesting Systems                     | Piezoelectric Harvesting, RF Energy Harvesting, Thermal Energy Harvesting |
+| Power Electronics Applications                | Renewable Energy Systems, Electric Vehicles, Grid Integration |
+| Energy Management Systems                    | Battery Management Systems (BMS), Energy Storage Management, Smart Grid Integration |
+| Power Semiconductor Packaging                 | Thermal Management, Module Design, Reliability Considerations |
+| Digital Control of Power Converters           | DSP-Based Control, FPGA-Based Control, Digital Control Techniques |
+| Emerging Power Electronics Technologies      | Wide Bandgap Devices, Gallium Nitride (GaN), Silicon Carbide (SiC) |
+
 ## Case Studies
 
 | Topic                                           | Keywords/Concepts                                             |
@@ -193,3 +310,26 @@ This repository serves as a comprehensive guide covering various topics in elect
 | Designing a Wireless Bicycle Locking System     | Wireless Bicycle Locking, Bike Sharing, System Design         |
 | Designing an Electric Car Seat Warmer System    | Electric Car Seat Warmer, System Design                       |
 | Designing a Wireless Inventory Management System| Wireless Inventory Management, Pharmacies, System Design      |
+
+## References (Websites, Courses used to learn)
+
+[1] https://www.elprocus.com/everybody-know-basic-circuits-electronics/
+[2] https://www.eleccircuit.com/simple-electronic-circuits/
+[3] https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1
+[4] https://www.homemade-circuits.com/circuit-projects-for-beginners-and-school-students/
+[5] https://www.javatpoint.com/digital-electronics
+[6] https://edurev.in/courses/23126_Power-Systems
+[7] https://www.accessengineeringlibrary.com/content/book/9780071798327/back-matter/appendix2
+[8] https://ocw.mit.edu/courses/6-061-introduction-to-electric-power-systems-spring-2011/
+[9] https://www.teensinai.com/signal-processing-intermediate/
+[10] https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/
+[11] https://www.tutorialspoint.com/control_systems/control_systems_introduction.htm
+[12] https://matlab-code.org/signal-processing-projects/
+[13] https://testbook.com/digital-electronics
+[14] https://www.tutorialspoint.com/control_systems/index.htm
+[15] https://www.edx.org/learn/circuits/the-national-university-of-singapore-circuits-for-beginners
+[16] https://ocw.mit.edu/courses/6-061-introduction-to-electric-power-systems-spring-2011/pages/syllabus/
+[17] https://www.khanacademy.org/science/physics/circuits-topic
+[18] https://www.javatpoint.com/control-system-tutorial
+[19] https://www.youtube.com/watch?v=haaRTKm8ePQ
+[20] https://www.youtube.com/watch?v=ppqJ3bYOUFI
