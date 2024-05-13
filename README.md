@@ -314,22 +314,61 @@ This repository serves as a comprehensive guide covering various topics in elect
 ## References (Websites, Courses used to learn)
 
 [1] https://www.elprocus.com/everybody-know-basic-circuits-electronics/
+
 [2] https://www.eleccircuit.com/simple-electronic-circuits/
+
 [3] https://www.circuitbread.com/tutorials/introduction-to-control-systems-1.1
+
 [4] https://www.homemade-circuits.com/circuit-projects-for-beginners-and-school-students/
+
 [5] https://www.javatpoint.com/digital-electronics
+
 [6] https://edurev.in/courses/23126_Power-Systems
+
 [7] https://www.accessengineeringlibrary.com/content/book/9780071798327/back-matter/appendix2
+
 [8] https://ocw.mit.edu/courses/6-061-introduction-to-electric-power-systems-spring-2011/
+
 [9] https://www.teensinai.com/signal-processing-intermediate/
+
 [10] https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/
+
 [11] https://www.tutorialspoint.com/control_systems/control_systems_introduction.htm
+
 [12] https://matlab-code.org/signal-processing-projects/
+
 [13] https://testbook.com/digital-electronics
+
 [14] https://www.tutorialspoint.com/control_systems/index.htm
+
 [15] https://www.edx.org/learn/circuits/the-national-university-of-singapore-circuits-for-beginners
+
 [16] https://ocw.mit.edu/courses/6-061-introduction-to-electric-power-systems-spring-2011/pages/syllabus/
+
 [17] https://www.khanacademy.org/science/physics/circuits-topic
+
 [18] https://www.javatpoint.com/control-system-tutorial
+
 [19] https://www.youtube.com/watch?v=haaRTKm8ePQ
+
 [20] https://www.youtube.com/watch?v=ppqJ3bYOUFI
+
+[21] https://www.electronics-tutorials.ws/
+
+[22] https://www.allaboutcircuits.com/
+
+[23] https://www.electrical4u.com/
+
+[24] https://www.electronics-notes.com/
+
+[25] https://www.electronicshub.org/
+
+[26] https://www.electronicsforu.com/
+
+[27] https://www.electronicdesign.com/
+
+[28] https://www.electropages.com/
+
+[29] https://www.electronicsweekly.com/
+
+[30] https://www.electronics-lab.com/
