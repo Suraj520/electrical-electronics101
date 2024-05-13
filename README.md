@@ -2,10 +2,6 @@
 - Dumping all my childhood passion of electrical & electronics into this central repo.
 - It can be DIY Projects of the past, concepts gathered during B.Tech or the ones that I got to learn in K-12 or via self exploration
 
-# Electronics Engineering Knowledge Base
-
-# Electronics Engineering Comprehensive Guide
-
 This repository serves as a comprehensive guide covering various topics in electronics engineering. Below is a structured outline of the topics covered, along with case studies for practical application.
 
 ## Basics of Electronics
