@@ -38,3 +38,7 @@ Bare board PCB testing is crucial to detect post-fabrication issues. It involves
 
 ### Advantages
 PCBs offer a more permanent and reliable solution compared to breadboards. They are essential for mass production and provide a structured layout for components. PCBs also offer better electrical performance, as the copper tracks have lower resistance and inductance compared to jumper wires used in breadboards. Additionally, PCBs are more compact and durable, making them suitable for commercial and industrial applications.
+
+## References
+
+[1] https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard
