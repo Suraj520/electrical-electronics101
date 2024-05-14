@@ -19,6 +19,8 @@ This repository serves as a comprehensive guide covering various topics in elect
 | Inductors                                     | Types, Behavior, Applications                                |
 | Diodes                                        | Types, Behavior, Applications                                |
 | Transistors                                   | Types, Behavior, Applications                                |
+| Current & Voltage Sources                                   | Types, Behavior, Applications                                |
+| Breadboard & PCB                                   | Types, Behavior, Applications                                |
 
 ## Digital Electronics
 
