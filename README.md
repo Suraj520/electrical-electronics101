@@ -21,7 +21,7 @@ This repository serves as a comprehensive guide covering various topics in elect
 | Transistors                                   | Types, Behavior, Applications                                |
 | Current & Voltage Sources                                   | Types, Behavior, Applications                                |
 | Breadboard & PCB                                   | Types, Behavior, Applications                                |
-
+| batteries                                  | Types, Behavior, Applications   
 ## Digital Electronics
 
 | Topic                                          | Subtopics                                                   |
