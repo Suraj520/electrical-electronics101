@@ -60,7 +60,7 @@ Understanding the roles of the cathode, anode, and electrolyte in a battery, alo
 ![image](4.png)
 
 
-References:
+References:`
 [1] https://www.biologic.net/topics/anode-cathode-positive-and-negative-battery-basics/
 
 [2] https://byjus.com/chemistry/cathode-and-anode/
