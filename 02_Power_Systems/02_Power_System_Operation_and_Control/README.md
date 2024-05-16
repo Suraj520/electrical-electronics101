@@ -1,3 +1,5 @@
+![IMAGE](1.jpg)
+
 ### Power System Operation and Control Overview
 - **Objective:** The main goal of power system operation and control is to maintain continuous power supply with acceptable quality to all consumers in the system.
 - **Components:** The operation and control of power systems involve various aspects such as real power-frequency interaction, reactive power-voltage control, economic load dispatch, and security control.
@@ -11,6 +13,9 @@
 ### Economic Load Dispatch
 - **Objective:** Economic Load Dispatch (ELD) aims to optimize the scheduling of power generating units to minimize total fuel costs while meeting the load demand and operational constraints.
 - **Challenges:** ELD optimization faces challenges in practical systems due to the nonlinearity of incremental cost curves of generating units.
+
+![IMAGE](2.webp)
+
 
 ### Power System Operational Planning
 - **Operational Planning:** The operational planning of power systems involves maximizing the utilization of energy resources while ensuring the safe transfer of electrical energy from generating stations to consumers at minimum cost.
