@@ -23,7 +23,6 @@ Consider a scenario in the Indian power sector where a high voltage engineering 
   
 - **Numerical Example:** If the insulating material withstands a voltage of 50 kV before breakdown, the team can conclude that the material has a breakdown strength of 50 kV.
 
-In the Indian ecosystem, high voltage engineering is crucial for the efficient and safe operation of power systems, especially in a country with a growing demand for electricity. By applying advanced high voltage engineering principles and practices, India can enhance the reliability and performance of its electrical infrastructure, contributing to the overall development and sustainability of the power sector.
 
 
 ## References:

@@ -32,7 +32,7 @@ Total Cost of Production = Fixed Charges + Semi-Fixed Costs + Variable Costs
 
 By understanding and optimizing these cost components, power systems can operate efficiently, offer competitive electricity prices to consumers, and maintain financial sustainability in the energy market.
 
-Citations:
+References:
 
 [1] https://mrcet.com/downloads/digital_notes/EEE/31082020/Power%20System%20Operation%20%26%20Control.pdf
 
